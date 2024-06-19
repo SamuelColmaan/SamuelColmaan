@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudante de sistemas de informação.<br>Python e C.<br>Futuro desenvolvedor.<br>Estou à procura de estágio.<br>
+Estudo full stack python pela EBAC e sistemas de informação pela Universidade Veiga De Almeida (UVA).<br>Python e C.<br>Futuro desenvolvedor.<br>Estou à procura de estágio.<br>
 
 
 ## 🌐 Socials:
