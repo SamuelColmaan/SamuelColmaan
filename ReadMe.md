@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudo full stack python pela EBAC e sistemas de informação pela Universidade Veiga De Almeida (UVA)<br>Futuro desenvolvedor full stack.<br>Estou à procura de estágio.<br>
+Estudo full stack python pela EBAC e sistemas de informação pela Universidade Veiga De Almeida (UVA)<br>Futuro desenvolvedor full stack.<br>
 
 
 ## 🌐 Socials:
